@@ -8,6 +8,6 @@
     "lerna": "^3.22.1"
   },
   "scripts": {
-    "tag-version": "lerna version --conventional-commits"
+    "tag-version": "lerna version --conventional-commits --conventional-prerelease"
   }
 }
