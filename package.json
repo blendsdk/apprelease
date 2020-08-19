@@ -1,0 +1,13 @@
+{
+  "name": "my-design-system",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "lerna": "^3.22.1"
+  },
+  "scripts": {
+    "tag-version": "lerna version --conventional-commits"
+  }
+}
