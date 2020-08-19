@@ -9,6 +9,7 @@
   },
   "scripts": {
     "dev-tag-version": "lerna version --conventional-commits --conventional-prerelease  --preid dev",
-    "rel-tag-version": "lerna version --conventional-commits --conventional-graduate --preid dev"
+    "rel-tag-version": "lerna version --conventional-commits --conventional-graduate --preid dev",
+    "publish-packages":"lerna publish from-package"
   }
 }
