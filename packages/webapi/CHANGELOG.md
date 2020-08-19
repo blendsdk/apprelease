@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1-dev.2](https://github.com/blendsdk/apprelease/compare/@will/webapi@1.1.1-dev.1...@will/webapi@1.1.1-dev.2) (2020-08-19)
+
+
+### Bug Fixes
+
+* Wed Aug 19 19:57:56 CEST 2020 ([841b6e5](https://github.com/blendsdk/apprelease/commit/841b6e597441131d632c95bab40a8763a371c862))
+* Wed Aug 19 19:58:27 CEST 2020 ([d4f908e](https://github.com/blendsdk/apprelease/commit/d4f908edd8c9ddf0c8a202ded9827be15afbcc3f))
+* Wed Aug 19 19:58:33 CEST 2020 ([0b8c3e0](https://github.com/blendsdk/apprelease/commit/0b8c3e06c4f8486c2f4fd7ff26cf77a684187c34))
+* Wed Aug 19 19:58:40 CEST 2020 ([eed55af](https://github.com/blendsdk/apprelease/commit/eed55afcc7bf6fae3b9e33c4b7eb2e0751e3445a))
+* Wed Aug 19 19:58:54 CEST 2020 ([19db803](https://github.com/blendsdk/apprelease/commit/19db803af8c3aaed88a0725f172b70ff2de26653))
+* Wed Aug 19 19:59:51 CEST 2020 ([aca3661](https://github.com/blendsdk/apprelease/commit/aca3661fc2f13478363935b121bbeea2ca458b6c))
+
+
+
+
+
 ## [1.1.1-dev.1](https://github.com/blendsdk/apprelease/compare/@will/webapi@1.1.1-dev.0...@will/webapi@1.1.1-dev.1) (2020-08-19)
 
 
